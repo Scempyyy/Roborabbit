@@ -1,11 +1,19 @@
-# Roborabbit
+<div align="center">
 
-A personal AI assistant with a voice.
+# 🐇 RoboRabbit
+### A personal AI assistant with a voice.
 
-RoboRabbit explores natural voice-driven interaction by combining speech input/output with AI-generated conversational responses.
+Voice-first experimentation with conversational AI, speech input, and spoken responses.
 
-## Direction
-- Voice-first assistant experience
+</div>
+
+---
+
+## Overview
+RoboRabbit explores a practical personal assistant workflow: speak naturally, receive an AI-generated response, and hear it spoken back.
+
+## Current direction
+- Voice-driven interaction
 - AI-powered conversation
 - Piper text-to-speech
 - Python assistant components
@@ -13,10 +21,12 @@ RoboRabbit explores natural voice-driven interaction by combining speech input/o
 - Configurable model-provider integrations
 
 ## Technology
-Python · FastAPI · Google GenAI SDK · Piper · WebSockets
+`Python` · `FastAPI` · `Google GenAI SDK` · `Piper` · `WebSockets`
 
 ## Security
-Keep API keys and credentials in local environment files. Never commit secrets or private configuration. Add a sanitized `.env.example` with variable names only.
+- Keep API keys in local environment files.
+- Never commit tokens, credentials, or private configuration.
+- Use a sanitized `.env.example` containing variable names only.
 
 ## Status
 Personal AI assistant prototype in active development.
