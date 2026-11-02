@@ -137,6 +137,28 @@ python3 main.py
 
 ---
 
+## 👥 Contributors & Activity Graph
+
+<div align="center">
+
+[![Contributors](https://img.shields.io/github/contributors/Scempyyy/Roborabbit?style=for-the-badge&color=0284C7)](https://github.com/Scempyyy/Roborabbit/graphs/contributors)
+[![Commit Activity](https://img.shields.io/github/commit-activity/m/Scempyyy/Roborabbit?style=for-the-badge&color=10B981)](https://github.com/Scempyyy/Roborabbit/pulse)
+[![Last Commit](https://img.shields.io/github/last-commit/Scempyyy/Roborabbit?style=for-the-badge&color=6366F1)](https://github.com/Scempyyy/Roborabbit/commits/main)
+
+<br/><br/>
+
+<a href="https://github.com/Scempyyy/Roborabbit/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Scempyyy/Roborabbit" alt="RoboRabbit Contributors" />
+</a>
+
+<br/><br/>
+
+[📊 View Full Repository Insights & Contribution Graph →](https://github.com/Scempyyy/Roborabbit/graphs/contributors)
+
+</div>
+
+---
+
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
